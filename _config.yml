@@ -1,7 +1,7 @@
 # Site settings
 title:          Youngim
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/youngimee"
+baseurl:        "youngimee"
 url:            "https://youngimee.github.io"
 
 # Google Analytics
